@@ -1,0 +1,3 @@
+[submodule "downloads"]
+	path = downloads
+	url = git@github.com:tlevine/cu-police-daily-downloads.git
